@@ -22,6 +22,6 @@
   },
   "devDependencies": {
     "morgan": "^1.10.0",
-    "winston": "^3.4.0"
+    "winston": "^3.5.0"
   }
 }
